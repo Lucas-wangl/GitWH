@@ -1,7 +1,7 @@
 import math
 import datetime
 
-
+# 52周存钱法
 def save_money_in_n_weeks(money_per_week,increase_money,total_week):
     """
         计算n周内的存款金额
